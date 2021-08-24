@@ -7,6 +7,7 @@ TagManager:
   - Red
   - Circled
   - Symbol A
+  - Cursor
   layers:
   - Default
   - TransparentFX
